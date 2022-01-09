@@ -1,0 +1,54 @@
+---
+title: "Lab 02"
+subtitle: "due [date] 11:59 PM "
+author: ""
+date: ""
+editor_options: 
+  chunk_output_type: console
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Load Packages
+
+```{r load-packages, message = FALSE, warning = FALSE}
+library(tidyverse)
+library(viridis)
+library(fivethirtyeight)
+``` 
+
+# Exercise 1
+
+```{r ex-1}
+```
+
+# Exercise 2
+
+Please comment on what you observe above.
+
+# Exercise 3
+
+```{r ex-3}
+```
+
+Comment on the patterns you observe for the states and if it differs from the previous plot.
+
+# Exercise 4
+
+```{r ex-4}
+```
+
+Comment here about what you observe about county area for each state.
+
+# Exercise 5
+
+```{r ex-5}
+```
+
+What do you notice from the bar chart above?
+
+# Exercise 6
+
+Add a named code chunk here to recreate the plot. Remember, you can insert
+code chunks using the "insert chunk" button (a green C with a +) and select `R`. Alternatively, use CMD + OPTION + I (Mac) or CTRL + ALT + I (Windows).
